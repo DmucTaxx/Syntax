@@ -77,7 +77,7 @@ if username_4==username_4 and password_4==password_4:
 \033[0;32m    |_|\__,_/_/\_\/_/\_\
 \033[0;3m
 ''')
-    print('\033[0;32mLogin Succes' + username_2 + '. .')_____
+    print('\033[0;32mLogin Succes' + username_2 + '. .')
 
 else:
     print('------------')
